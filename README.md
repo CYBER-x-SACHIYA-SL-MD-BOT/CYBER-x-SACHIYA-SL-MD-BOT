@@ -1,30 +1,44 @@
+<p align="center">
+<img src='README.svg' width="100%"/>
+</p>
 
-<h1 align="center">𝘏𝘐 💓, 𝘐'𝘔 𝘚𝘈𝘊𝘏𝘐𝘛𝘏 𝘊𝘏𝘈𝘕𝘋𝘙𝘈</h1>
-<h3 align="center">Developer From SriLanka</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Kumuthu+Prabhasha;🌼Thanks+For+Watching+My+Profile🔋)](https://git.io/typing-svg)
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=😋හේ+හේ+❤️ම්ම්ම්...;😏මාව+Follow+කරේ+නැද්ද?😭;🤭මාව+follow+කරන්න+ඉතිං🌹;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachith-Chandra&label=Profile%20views&color=0e75b6&style=flat" alt="Sachith-Chandra" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&lines=🌼Thanks+For+Watching+My+Profile🥇;⭐MAIN+PROJECT⭐;🔋⚙+RED-DRAGON-MD+bot+🤖)](https://git.io/typing-svg)
+-->
 
-- 🔭 I’M Currently Working On **𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘉𝘖𝘛𝘚**
+## ``` Contact ```
+<p align="center">
+<a href="https://wa.me/380944814219"><img src="https://preview.redd.it/tpvewx1950311.png?width=1487&format=png&auto=webp&s=be429e3b5e7e51c777497c95b63c5011f9a906b6" width="115"/>
+<a href="https://wa.me/380944814219"><img src="https://github.com/Alien-alfa/PublicBot/raw/main/wlogo.svg.png" width="115"/>
+<a href="https://t.me/kumuthu"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" width="125"/> 
+<a href="https://github.com/prabhasha2006"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" width="101"/> 
+</p>
 
-- 🌱 I’M Currently Learning **____**
+<!--
+<p align="center">
+<img src="https://telegra.ph/file/1ff457ba7f33c1fee8519.jpg" alt="nz" width="310"/>
+</p>
+-->
+## 🏆 GitHub Awards
 
-- 💬 Ask Me About **Whatsapp Bots**
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=prabhasha2006&theme=darkhub)
 
-- 📫 How To Reach Me **𝘏𝘐**
 
-- ⚡ Fun Fact **I Think I Am Funny😂**
+# 📊 My Status
+![](https://github-readme-stats.vercel.app/api?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prabhasha2006&theme=vue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="left">
-<a href="https://github.com/CYBER-x-SACHIYA-SL-MD-BOT?tab=languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachith-Chandra&theme=highcontrast&layout=compact" alt="Languages">
-</a>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sachith&show_icons=true&count_private=true&theme=highcontrast" alt="Sachith-Chandra" /></p>
+## 🏆 GitHub Awards
+![](https://github-profile-trophy.vercel.app/?username=prabhasha2006&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
-<div align="left">
-  <a href="https://github.com/CYBER-x-SACHIYA-SL-MD-BOT">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachith-Chandra&theme=highcontrast" alt="GitHub Streak" />
-  </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=prabhasha2006&icon=7&color=0)](https://visitcount.itsvg.in)
+
+  <a href="https://github.com/prabhasha2006/Red-Dragon"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhasha2006&repo=Red-Dragon&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=222233&text_color=ffffff&disable_animations=false"></a>
+
+
+
 
