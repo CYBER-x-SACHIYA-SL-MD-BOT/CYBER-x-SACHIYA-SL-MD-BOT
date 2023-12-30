@@ -2,7 +2,7 @@
 <img src='README.svg' width="100%"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=👀Hi+friends🥰;💌I+am+Kumuthu+Prabhasha;🌼Thanks+For+Watching+My+Profile🔋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=𝐇𝐈+𝐅𝐑𝐈𝐄𝐍𝐃𝐒;𝐈+𝐀𝐌+𝐒𝐀𝐂𝐇𝐈𝐓𝐇+𝐂𝐇𝐀𝐍𝐃𝐑𝐀💓𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐖𝐀𝐓𝐂𝐇𝐈𝐍𝐆+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄)](https://git.io/typing-svg)
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=😋හේ+හේ+❤️ම්ම්ම්...;😏මාව+Follow+කරේ+නැද්ද?😭;🤭මාව+follow+කරන්න+ඉතිං🌹;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
