@@ -11,10 +11,10 @@
 
 ## ``` Contact ```
 <p align="center">
-<a href="https://wa.me/380944814219"><img src="https://preview.redd.it/tpvewx1950311.png?width=1487&format=png&auto=webp&s=be429e3b5e7e51c777497c95b63c5011f9a906b6" width="115"/>
-<a href="https://wa.me/380944814219"><img src="https://github.com/Alien-alfa/PublicBot/raw/main/wlogo.svg.png" width="115"/>
-<a href="https://t.me/kumuthu"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" width="125"/> 
-<a href="https://github.com/prabhasha2006"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" width="101"/> 
+<a href="[https://wa.me/+94704274987](https://wa.me/+94704274987)"><img src="https://preview.redd.it/tpvewx1950311.png?width=1487&format=png&auto=webp&s=be429e3b5e7e51c777497c95b63c5011f9a906b6" width="115"/>
+<a href="https://wa.me/+94704274987"><img src="https://github.com/Alien-alfa/PublicBot/raw/main/wlogo.svg.png" width="115"/>
+<a href="https://t.me/Sachith"><img src="https://img.shields.io/badge/-Telegram-white?style=flat-cirlce&logo=telegram" width="125"/> 
+<a href="https://github.com/CYBER-x-SACHIYA-SL-MD-BOT"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" width="101"/> 
 </p>
 
 <!--
