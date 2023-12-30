@@ -22,17 +22,13 @@
 <img src="https://telegra.ph/file/1ff457ba7f33c1fee8519.jpg" alt="nz" width="310"/>
 </p>
 -->
-## 🏆 GitHub Awards
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=prabhasha2006&theme=darkhub)
-
 
 # 📊 My Status
 ![](https://github-readme-stats.vercel.app/api?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prabhasha2006&theme=vue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-💓
+
   <a href="https://github.com/prabhasha2006/Red-Dragon"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhasha2006&repo=Red-Dragon&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=222233&text_color=ffffff&disable_animations=false"></a>
 
 
