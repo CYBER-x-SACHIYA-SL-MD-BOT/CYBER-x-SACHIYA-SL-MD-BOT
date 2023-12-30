@@ -20,10 +20,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSuresh2&theme=highcontrast&layout=compact" alt="Languages">
 </a>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhishekSuresh2&show_icons=true&count_private=true&theme=highcontrast" alt="abhisheksuresh2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sachith2&show_icons=true&count_private=true&theme=highcontrast" alt="Sachith-Chandra" /></p>
 
 <div align="left">
-  <a href="https://github.com/AbhishekSuresh2">
+  <a href="https://github.com/CYBER-x-SACHIYA-SL-MD-BOT">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekSuresh2&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </div>
