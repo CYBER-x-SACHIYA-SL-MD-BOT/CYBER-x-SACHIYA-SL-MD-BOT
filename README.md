@@ -32,11 +32,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prabhasha2006&theme=vue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhasha2006&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Awards
-![](https://github-profile-trophy.vercel.app/?username=prabhasha2006&theme=flat&no-frame=true&no-bg=false&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=prabhasha2006&icon=7&color=0)](https://visitcount.itsvg.in)
-
+💓
   <a href="https://github.com/prabhasha2006/Red-Dragon"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabhasha2006&repo=Red-Dragon&theme=chartreuse-dark&icon_color=0000e6&title_color=ff0000&bg_color=222233&text_color=ffffff&disable_animations=false"></a>
 
 
